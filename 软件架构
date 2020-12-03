@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T15:42:11.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="mfrkbSTcvmzkPY7h2zTy" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T02:12:28.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="OauFsGKO2sBBN4J6rI_A" version="13.10.6" type="github">
   <diagram id="AekTtjs_55Ad5qRRMGLm" name="Page-1">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,13 +34,10 @@
           <mxGeometry width="440" height="270" as="geometry" />
         </mxCell>
         <mxCell id="FWT7wTPtlf0Lk3VXLI6o-20" value="" style="group" parent="FWT7wTPtlf0Lk3VXLI6o-21" vertex="1" connectable="0">
-          <mxGeometry x="13" y="80" width="414" height="140" as="geometry" />
+          <mxGeometry x="13" y="80" width="420" height="140" as="geometry" />
         </mxCell>
         <mxCell id="FWT7wTPtlf0Lk3VXLI6o-7" value="数据管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="FWT7wTPtlf0Lk3VXLI6o-20" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-8" value="地图浏览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="FWT7wTPtlf0Lk3VXLI6o-20" vertex="1">
-          <mxGeometry x="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FWT7wTPtlf0Lk3VXLI6o-10" value="图层管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="FWT7wTPtlf0Lk3VXLI6o-20" vertex="1">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
@@ -48,8 +45,8 @@
         <mxCell id="FWT7wTPtlf0Lk3VXLI6o-12" value="属性查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="FWT7wTPtlf0Lk3VXLI6o-20" vertex="1">
           <mxGeometry x="150" y="80" width="264" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-11" value="专题地图可视化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="FWT7wTPtlf0Lk3VXLI6o-21" vertex="1">
-          <mxGeometry x="307" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-8" value="地图浏览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="FWT7wTPtlf0Lk3VXLI6o-21" vertex="1">
+          <mxGeometry x="163" y="80" width="267" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FWT7wTPtlf0Lk3VXLI6o-22" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;基础数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=16;fillColor=#a5a5a5;" parent="1" vertex="1">
           <mxGeometry x="193" y="370" width="440" height="60" as="geometry" />
