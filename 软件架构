@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T04:28:11.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="g-_DL3Veb58yEO82uYPf" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T04:28:49.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="IRAZ8C0QjGFHNu3f33kb" version="14.5.7" type="github">
   <diagram id="AekTtjs_55Ad5qRRMGLm" name="Page-1">
-    <mxGraphModel dx="1503" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="877" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,22 +95,22 @@
         <mxCell id="FWT7wTPtlf0Lk3VXLI6o-29" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fillColor=#eeeeee;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="223" y="490" width="382" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;疫情信息数据库&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeColor=#000000;fillColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;疫情信息数据库&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fillColor=#ffffff;fontStyle=1;strokeColor=#cccccc;" parent="1" vertex="1">
           <mxGeometry x="236" y="540" width="161" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KxdW8lpg4JILz1ilHYIF-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户信息数据库&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeColor=#000000;fillColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="KxdW8lpg4JILz1ilHYIF-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户信息数据库&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fillColor=#ffffff;fontStyle=1;strokeColor=#cccccc;" parent="1" vertex="1">
           <mxGeometry x="421" y="540" width="162" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FWT7wTPtlf0Lk3VXLI6o-31" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#544d2c&quot; style=&quot;font-size: 18px&quot;&gt;基础地理/地图数据&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;fontSize=16;strokeColor=none;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="243" y="650" width="340" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-32" value="&lt;font&gt;GeoJson&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-32" value="&lt;font&gt;GeoJson&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;strokeColor=#cccccc;" parent="1" vertex="1">
           <mxGeometry x="262.42857142857144" y="690" width="77.7142857142857" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-33" value="&lt;font&gt;底图&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-33" value="&lt;font&gt;底图&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;strokeColor=#cccccc;" parent="1" vertex="1">
           <mxGeometry x="373.1714285714286" y="690" width="77.7142857142857" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-34" value="&lt;font&gt;...&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-34" value="&lt;font&gt;...&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;strokeColor=#cccccc;" parent="1" vertex="1">
           <mxGeometry x="485.8571428571428" y="690" width="77.7142857142857" height="60" as="geometry" />
         </mxCell>
       </root>
