@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T04:32:58.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="OusJ0IpDz1BV2idV5ueS" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T09:24:13.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Hi8XIUTmXDNVQgAkP-Xx" version="14.6.1" type="github">
   <diagram id="AekTtjs_55Ad5qRRMGLm" name="Page-1">
-    <mxGraphModel dx="1753" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1238" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,26 +89,23 @@
         <mxCell id="FWT7wTPtlf0Lk3VXLI6o-34" value="&lt;font&gt;...&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;strokeColor=#cccccc;" parent="1" vertex="1">
           <mxGeometry x="485.8571428571428" y="690" width="77.7142857142857" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-2" value="&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;传染病多尺度监测系统&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;（B/S）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;align=center;arcSize=12;fillColor=#eeeeee;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-2" value="&lt;div&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(240 , 240 , 240)&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;时空数据可视化系统&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;（B/S）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;align=center;arcSize=12;fillColor=#eeeeee;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="20" width="440" height="290.00000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-8" value="图层管理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="353" y="120" width="117" height="64.44" as="geometry" />
+        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-8" value="疫情数据统计" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="353" y="120" width="127" height="64.44" as="geometry" />
         </mxCell>
-        <mxCell id="KxdW8lpg4JILz1ilHYIF-13" value="全球" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="500" y="120" width="117" height="64.44" as="geometry" />
+        <mxCell id="KxdW8lpg4JILz1ilHYIF-13" value="疫情多尺度可视化分析" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="351.5" y="205.92" width="127" height="74.08" as="geometry" />
         </mxCell>
-        <mxCell id="KxdW8lpg4JILz1ilHYIF-14" value="中国" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="500" y="205.93" width="117" height="64.44" as="geometry" />
-        </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-7" value="登录模块" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-7" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="203" y="119.99592592592595" width="120" height="64.44444444444446" as="geometry" />
         </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-10" value="地图浏览" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="203" y="205.92185185185187" width="120" height="64.44444444444446" as="geometry" />
+        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-10" value="疫情历史点&lt;br&gt;回溯" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="203" y="205.92" width="120" height="74.08" as="geometry" />
         </mxCell>
-        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-12" value="多尺度分析" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="353" y="205.92592592592592" width="120" height="64.44" as="geometry" />
+        <mxCell id="FWT7wTPtlf0Lk3VXLI6o-12" value="疫情传播分析" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="494.5" y="120" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
