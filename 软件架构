@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T09:32:47.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Yxn3Q1ScqXKDiDC6b-XU" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T07:09:34.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="dVdYFWuuD9Bf3p98XCE7" version="14.6.1" type="github">
   <diagram id="AekTtjs_55Ad5qRRMGLm" name="Page-1">
-    <mxGraphModel dx="513" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="648" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
         <mxCell id="FWT7wTPtlf0Lk3VXLI6o-8" value="疫情数据统计" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="346.5" y="120" width="127" height="64.44" as="geometry" />
         </mxCell>
-        <mxCell id="KxdW8lpg4JILz1ilHYIF-13" value="疫情多尺度可视化分析" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="KxdW8lpg4JILz1ilHYIF-13" value="疫情可视化&lt;br&gt;分析" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="346.5" y="205.92" width="127" height="74.08" as="geometry" />
         </mxCell>
         <mxCell id="FWT7wTPtlf0Lk3VXLI6o-7" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
